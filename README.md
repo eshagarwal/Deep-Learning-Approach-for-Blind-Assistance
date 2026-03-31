@@ -8,4 +8,4 @@ This work was published as a journal paper:
 
 **Deep Learning Approach for Blind Assistance**  
 Agarwal, E., Somkunwar, R., et al.  
-Published in ISTE, July 2023  (Page 36)
+Published in ISTE, July 2023  (Page 29)
